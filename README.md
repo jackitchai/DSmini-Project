@@ -1,17 +1,2 @@
-# DSBootcamp-Project
-
-## what did I learn from this bootcamp 
-
-I learn a lot of stuff realated to data science skills. This bootcamp have 10 sprints
-
-- Intro to datascience
-- Spreadsheets
-- SQL
-- R language
-- Data tranformation  
-- Data visualization
-- Statistic
-- Machine learning
-- Python
-- Dashboard
-
+# DSmini-Project
+About this repo : all this file are the project that were developed during my data science course
